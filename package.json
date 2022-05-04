@@ -1,7 +1,7 @@
 {
-  "name": "project",
+  "name": "portfolio-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "generates a portfolio",
   "main": "app.js",
   "directories": {
     "lib": "lib"
@@ -11,9 +11,17 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mwihaki Githii",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.0.3"
-  }
+    "inquirer": "^7.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwihakig/portfolio-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mwihakig/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/mwihakig/portfolio-generator#readme"
 }
